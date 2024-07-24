@@ -1,0 +1,10 @@
+name = "PrecibeoStages"
+uuid = "bf001abc-b14a-4273-9762-b66a6ecd834c"
+authors = ["Dohyeon Lee <dleh428@kaist.ac.kr>"]
+version = "0.1.0"
+
+[deps]
+EnumX = "4e289a0a-7415-4d19-859d-a7e5c4648b56"
+ExternalDeviceIOs = "94545779-4ceb-5ed2-a54f-6cb9bc09d82c"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Preferences = "21216c6a-2e73-6563-6e65-726566657250"
